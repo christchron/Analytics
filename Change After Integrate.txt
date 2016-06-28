@@ -1,0 +1,3 @@
+1.	ubah fetchChartData menjadi ada parameter start dan end di actions/index.js
+2. 	ubah handler start dan end pada show_chart.js menjadi memanggil fetchChartData dan merender ulang
+
